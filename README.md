@@ -28,3 +28,16 @@ This project uses
 ### How to inject DLL.
 Use any DLL injector you want and add delay of upto 5 seconds to inject. 
 
+## License and responsible use
+
+This project's Heaven-HM-owned material uses the
+[Heaven-HM Community Modding License](LICENSE). You may modify the
+source and create and share free, lawful, noncommercial mods. Selling the
+covered software or resulting mods, or charging for access, requires separate
+written permission. Illegal activity, infringement, malware, unauthorized
+access, and intentional real-world harm are prohibited. Preserve attribution
+and follow third-party licenses. Fictional events in games are not real-world harm.
+
+This is a **source-available** project under a custom restrictive license.
+[Prior permissions and separately licensed material](LICENSE_SCOPE.md) remain
+valid; this change does not revoke rights granted for earlier versions.
